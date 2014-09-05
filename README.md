@@ -13,12 +13,12 @@ Installation
 
 1. Download as ZIP
 2. Unzip
-3. Copy into C:\Program Files\Common Files\Microsoft Shared\Windows Live (need admin permissions)
+3. Copy into ```C:\Program Files\Common Files\Microsoft Shared\Windows Live``` (need admin permissions)
 
 Usage
 =====
 
-1. Open CMD (Start - Run, type: cmd)
+1. Open CMD (Start - Run, type: ```cmd```)
 2. Use command below 
 ```
 fuck [you...] process_name
