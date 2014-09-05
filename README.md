@@ -8,6 +8,8 @@ Description
 
 This little script make you able to quit scripts from CMD really awesome way.
 
+[![ScreenShot](https://raw.github.com/detroitstudio/fuck/master/screen.png)](http://youtu.be/R91DU8kceeQ)
+
 Installation
 ============
 
