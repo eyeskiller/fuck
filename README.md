@@ -24,7 +24,7 @@ Usage
 fuck [you...] process_name
 ```
 
-Kills _process_name_. The _you_ is optional.
+Kills ```process_name```. The ```you``` is optional.
 
 
 
