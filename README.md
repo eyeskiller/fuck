@@ -10,7 +10,7 @@ This little script make you able to quit scripts from CMD/Terminal really awesom
 
 [![ScreenShot](https://raw.github.com/detroitstudio/fuck/master/images/screen.png)](http://youtu.be/R91DU8kceeQ)
 
-Windows Installation (Windows 7/Windows 8/Windows 8.1)
+Windows Installation (Windows 7/Windows 8/Windows 8.1/Windows 10)
 ============
 
 1. Download as ZIP
