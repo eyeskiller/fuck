@@ -67,6 +67,37 @@ fuck [you...] process_name
 
 Kills ```process_name```. The ```you``` is optional.
 
+MAC OS Installation
+============
+
+1. Download as ZIP
+2. Unzip and open **macos** folder
+3. Copy **.bash_aliases** into *~*
+
+If you already have **~/.bash_aliases** file, simply open it in Nano/VIM... and copy/paste **fuck function**
+
+If command is not run, make sure that you have uncommented this code in **~/.profile** file.
+
+```
+if [ -f ~/.bash_aliases ]; then
+. ~/.bash_aliases
+fi
+```
+
+File is located in *~/.profile* (*/home/your_user_name*)
+
+Usage
+=====
+
+1. Open **Terminal**
+2. Use command below
+```
+fuck [you...] process_name (leading with Big latter)
+```
+
+Kills ```process_name```. The ```you``` is optional.
+
+
 
 
 
